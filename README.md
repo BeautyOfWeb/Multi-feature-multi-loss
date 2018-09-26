@@ -1,6 +1,6 @@
-This is my solution (https://www.synapse.org/#!Synapse:syn11310698/wiki/495700) for Multiple Myeloma DREAM Challenge (https://www.synapse.org/#!Synapse:syn6187098/wiki/401884)
+A multi-feature multi-loss neural network model for predicting the disease progression of multiple myeloma.
 
-I designed a multi-feature multi-loss neural network model for predicting the disease progression of multiple myeloma.
+This is my solution (https://www.synapse.org/#!Synapse:syn11310698/wiki/495700) for Multiple Myeloma DREAM Challenge (https://www.synapse.org/#!Synapse:syn6187098/wiki/401884)
 
 My results were ranked 4th in both sub-challenge 2 and sub-challenge 3.
 
